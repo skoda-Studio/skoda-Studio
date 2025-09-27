@@ -1,24 +1,22 @@
 # مرحباً بكم في Skoda Studio 👋
-
 ![Skoda Studio](https://img.shields.io/badge/Skoda%20Studio-Discord%20Bot%20Developers-blue?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 👋 من نحن
-
 نحن **فريق Skoda Studio** - مطورون متخصصون في إنشاء بوتات Discord مبتكرة وعالية الجودة. نهدف إلى تحسين تجربة المجتمعات على Discord من خلال بوتات مخصصة وفعالة.
 
 ## 🚀 مشاريعنا المميزة
 
-[![Skoda System Bot](https://img.shields.io/badge/⭐-Skoda%20System%20Bot-brightgreen)](https://github.com/skoda-Studio/skoda-System-Bot) ![Stars](https://img.shields.io/github/stars/skoda-Studio/skoda-System-Bot?color=yellow)
+[![![Skoda System Bot](https://img.shields.io/badge/⭐-Skoda%20System%20Bot-brightgreen)](https://github.com/skoda-Studio/skoda-System-Bot) ![Stars](https://img.shields.io/github/stars/skoda-Studio/skoda-System-Bot?color=yellow)
 
-[![Voice Support Bot](https://img.shields.io/badge/🎤-Voice%20Support%20Bot-purple)](https://github.com/skoda-Studio/Voice-support-bot) ![Stars](https://img.shields.io/github/stars/skoda-Studio/Voice-support-bot?color=yellow)
+[![![Voice Support Bot](https://img.shields.io/badge/🎤-Voice%20Support%20Bot-purple)](https://github.com/skoda-Studio/Voice-support-bot) ![Stars](https://img.shields.io/github/stars/skoda-Studio/Voice-support-bot?color=yellow)
 
-[![Giveaway Bot](https://img.shields.io/badge/🎁-Giveaway%20Bot-orange)](https://github.com/skoda-Studio/giveaway-discord-bot) ![Stars](https://img.shields.io/github/stars/skoda-Studio/giveaway-discord-bot?color=yellow)
+[![![Giveaway Bot](https://img.shields.io/badge/🎁-Giveaway%20Bot-orange)](https://github.com/skoda-Studio/giveaway-discord-bot) ![Stars](https://img.shields.io/github/stars/skoda-Studio/giveaway-discord-bot?color=yellow)
 
-[![Colors Bot](https://img.shields.io/badge/🎨-Colors%20Bot-pink)](https://github.com/skoda-Studio/colors-discord-bot) ![Stars](https://img.shields.io/github/stars/skoda-Studio/colors-discord-bot?color=yellow)
+[![![Colors Bot](https://img.shields.io/badge/🎨-Colors%20Bot-pink)](https://github.com/skoda-Studio/colors-discord-bot) ![Stars](https://img.shields.io/github/stars/skoda-Studio/colors-discord-bot?color=yellow)
 
-[![Welcome Bot v2.0](https://img.shields.io/badge/👋-Welcome%20Bot%20v2.0-green)](https://github.com/skoda-Studio/Welcome-bot-v.2.0)
+[![![Welcome Bot v2.0](https://img.shields.io/badge/👋-Welcome%20Bot%20v2.0-green)](https://github.com/skoda-Studio/Welcome-bot-v.2.0)
 
-[![Quran Radio Bot](https://img.shields.io/badge/📻-Quran%20Radio%20Bot-darkgreen)](https://github.com/skoda-Studio/Quran-Radio-bot)
+[![![Quran Radio Bot](https://img.shields.io/badge/📻-Quran%20Radio%20Bot-darkgreen)](https://github.com/skoda-Studio/Quran-Radio-bot)
 
 ## 💻 مهاراتنا التقنية
 
@@ -35,7 +33,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ## 📊 إحصائيات GitHub
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=skoda-Studio&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skoda-Studio&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -47,8 +44,7 @@
 
 ## 🌐 تواصل معنا
 
-[![Discord](https://img.shields.io/badge/Discord-YhkyGV4Qd7-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YhkyGV4Qd7)
-[![GitHub](https://img.shields.io/badge/GitHub-skoda--Studio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skoda-Studio)
+[![![Discord](https://img.shields.io/badge/Discord-2zXStrkG-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2zXStrkG) [![![GitHub](https://img.shields.io/badge/GitHub-skoda--Studio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skoda-Studio)
 
 ## 🤝 كيفية المساهمة
 
